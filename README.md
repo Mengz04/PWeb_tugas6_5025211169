@@ -8,4 +8,4 @@ Kelas: Pemrograman Web (A)
 
 Tahun Ajaran: 2022/2023
 
-Tugas kelima yang diberikan adalah membuat membuat page E-Commerce peralatan olahraga dengan bootstrap. Berikut adalah dokumentasi dari website yang telah saya buat.
+Tugas keenam yang diberikan adalah membuat membuat login page dengan AJAX jquery..
