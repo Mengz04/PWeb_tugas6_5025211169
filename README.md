@@ -8,4 +8,4 @@ Kelas: Pemrograman Web (A)
 
 Tahun Ajaran: 2022/2023
 
-Tugas keenam yang diberikan adalah membuat membuat login page dengan AJAX jquery..
+Tugas keenam yang diberikan adalah membuat membuat login page dengan AJAX jquery.
